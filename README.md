@@ -14,7 +14,3 @@ A Machine Learning powered web application designed to predict heart attack risk
 - **Web Framework:** Streamlit
 - **Data Processing:** Pandas, NumPy
 
-## 📦 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/username-kamu/HeartGuard-AI-Indonesia.git](https://github.com/username-kamu/HeartGuard-AI-Indonesia.git)
